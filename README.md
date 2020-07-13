@@ -21,7 +21,7 @@ AudioburstPlayer consists of two modes of audio player - compact (mini or floati
 
 
 <p align="middle">
-<img src="screenshots/floating_player_1.png?raw=true"  width="200" hspace="20" title="Floating player"/><img src="screenshots/floating_player_2.png?raw=true"  width="200" hspace="20" /><img src="screenshots/mini_player.png?raw=true"  width="200" hspace="20" /><img src="screenshots/fullscreen_player.png?raw=true"  width="200" />
+<img src="screenshots/floating_player_1.png?raw=true"  width="200" hspace="5" title="Floating player"/><img src="screenshots/floating_player_2.png?raw=true"  width="200" hspace="5" /><img src="screenshots/mini_player.png?raw=true"  width="200" hspace="5" /><img src="screenshots/fullscreen_player.png?raw=true"  width="200" />
 </p>
 
 
