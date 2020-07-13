@@ -19,6 +19,12 @@ AudioburstPlayer consists of two modes of audio player - compact (mini or floati
 - see bursts list,
 - support dark/light theme.
 
+
+<p align="middle">
+<img src="screenshots/floating_player_1.png?raw=true"  width="200" hspace="20" title="Floating player"/><img src="screenshots/floating_player_2.png?raw=true"  width="200" hspace="20" /><img src="screenshots/mini_player.png?raw=true"  width="200" hspace="20" /><img src="screenshots/fullscreen_player.png?raw=true"  width="200" />
+</p>
+
+
 ## Requirements
 
 - iOS 12.0+
